@@ -39,7 +39,7 @@ The script will read the dataset, preprocess the data, train a machine learning 
 
 **Configuration**
 
-You can modify the configuration parameters in the house_rent_prediction.py script to adjust the behavior of the model. Some of the important configuration options include:
+You can modify the configuration parameters in the houserent.py script to adjust the behavior of the model. Some of the important configuration options include:
 
 TEST_SIZE: The proportion of the dataset to use for testing (default: 0.2).
 
