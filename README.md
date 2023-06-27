@@ -7,13 +7,10 @@ To run this project, you need the following dependencies:
 
 Python 3.x
 
-NumPy
-
-Pandas
-
-Matplotlib
-
-seaborn
+- numpy
+- pandas
+- matplotlib
+- seaborn
 
 You can install the dependencies using the following command:
 
