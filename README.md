@@ -2,7 +2,7 @@
 
 This is a house rent prediction project implemented using Python and machine learning techniques. The project aims to predict the rent of a house based on various features such as location, number of bedrooms, square footage, and other relevant factors.
 
-Requirements
+**Requirements**
 To run this project, you need the following dependencies:
 
 Python 3.x
@@ -17,12 +17,13 @@ You can install the dependencies using the following command:
 
 pip install numpy pandas matplotlib seaborn
 
-Dataset
+**Dataset**
+
 The project uses a dataset containing information about various houses and their corresponding rents. The dataset should be in CSV (Comma Separated Values) format. Each row in the dataset represents a house, and the columns contain the different features and the corresponding rent.
 
 Please make sure to place the dataset file in the same directory as the Python script.
 
-Usage
+**Usage**
 
 To run the house rent prediction script, follow these steps:
 
@@ -36,7 +37,7 @@ python houserent.py
 
 The script will read the dataset, preprocess the data, train a machine learning model, and make predictions on new data.
 
-Configuration
+**Configuration**
 
 You can modify the configuration parameters in the house_rent_prediction.py script to adjust the behavior of the model. Some of the important configuration options include:
 
@@ -50,11 +51,10 @@ FEATURES: The list of features to consider for prediction (default: ['location',
 
 Feel free to modify these parameters according to your needs.
 
-Results
+**Results**
 
 After running the script, you will see the predicted rents for the test data, along with the corresponding actual rents. Additionally, various evaluation metrics such as mean absolute error, mean squared error, and R-squared score will be displayed to assess the performance of the model.
 
-
-Credits
+**Credits**
 
 This project was created by Balaji. If you have any questions or suggestions, please feel free to reach out.
