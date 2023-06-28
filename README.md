@@ -1,4 +1,4 @@
-**House Rent Prediction**
+### House Rent Prediction using MachineLearning in Python
 
 This is a house rent prediction project implemented using Python and machine learning techniques. The project aims to predict the rent of a house based on various features such as location, number of bedrooms, square footage, and other relevant factors.
 
